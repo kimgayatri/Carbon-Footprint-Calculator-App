@@ -1,5 +1,6 @@
+##Output1
 
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/9223a800-b63b-4798-8973-ba5697afa88e"></img></a>
+![Image](https://github.com/user-attachments/assets/a6a10195-f85a-47c5-9a2d-b8be9e701250)
 
 ## 🌳About Carbon Footprint Calculator Project🌳
 
