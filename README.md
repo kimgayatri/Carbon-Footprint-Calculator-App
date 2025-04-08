@@ -6,6 +6,10 @@
 
 ![Image](https://github.com/user-attachments/assets/2c2bb37f-c3b4-4bb8-9152-904a059e25e9)
 
+##Output3
+
+![Image](https://github.com/user-attachments/assets/84705dae-4949-46ff-b88d-0972e825f981)
+
 
 ## 🌳About Carbon Footprint Calculator Project🌳
 
