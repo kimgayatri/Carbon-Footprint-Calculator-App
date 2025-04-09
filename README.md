@@ -49,7 +49,6 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
    - Tested the complete application to ensure that both the backend and frontend components are functioning correctly.
 
 ## 👩‍🏫How to use
-Firstly, enter https://carbonfootprintcalculator.streamlit.app/. If the app is asleep due to Streamlit's policy, please wait a few moments for it to wake up.
 
 Click to:
 
