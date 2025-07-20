@@ -1,5 +1,15 @@
+##Output1
 
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/9223a800-b63b-4798-8973-ba5697afa88e"></img></a>
+![Image](https://github.com/user-attachments/assets/a6a10195-f85a-47c5-9a2d-b8be9e701250)
+
+##Output2
+
+![Image](https://github.com/user-attachments/assets/2c2bb37f-c3b4-4bb8-9152-904a059e25e9)
+
+##Output3
+
+![Image](https://github.com/user-attachments/assets/84705dae-4949-46ff-b88d-0972e825f981)
+
 
 ## 🌳About Carbon Footprint Calculator Project🌳
 
@@ -39,7 +49,6 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
    - Tested the complete application to ensure that both the backend and frontend components are functioning correctly.
 
 ## 👩‍🏫How to use
-Firstly, enter https://carbonfootprintcalculator.streamlit.app/. If the app is asleep due to Streamlit's policy, please wait a few moments for it to wake up.
 
 Click to:
 
@@ -62,40 +71,5 @@ If you wish to offset your carbon footprint, you can proceed by donating trees t
 
 
 
-## 👨‍👩‍👧‍👦Team Members 
 
-- ### 🙋‍♂️Burhan Yıldız
-
-<a target="_blank" href="https://www.linkedin.com/in/burhanyildiz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/yldzburhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@yildizburhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-
-- ### 🙋‍♀️Ecem Bayındır
-
-<a target="_blank" href="https://www.linkedin.com/in/ecembayindir/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/ecembayindir"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@ecembayindir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-- ### 🙋‍♂️Hüseyin Baytar
-
-<a target="_blank" href="https://www.linkedin.com/in/huseyinbaytar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/huseyinbaytar"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@huseyinbaytar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-- ### 🙋‍♀️Serap Gülasar
-
-<a target="_blank" href="https://www.linkedin.com/in/serap-gülasar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/serapgulasar"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@serapgulasar99"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-- ### 🙋‍♂️Mesut Duman
-
-<a target="_blank" href="https://www.linkedin.com/in/mesut-duman/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/dumanmesut"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@dumanmesut"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-
-## 📺Project Presentation
-
-https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/657285e0-eded-4296-8937-fd2d22f7aeef
 
